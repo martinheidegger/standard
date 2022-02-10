@@ -282,7 +282,7 @@ code to match the newly added rules.
 repositories** and **33,349 public npm packages**. Thanks for spreading the
 word!
 
-We now have a [Discord server](https://discord.gg/ZegqCBr). Come chat with the
+We now have a [Discord server](https://discord.gg/kaaHhkp3u6). Come chat with the
 maintainers, ask questions, and get help from the community!
 
 ❤️ If you enjoy StandardJS and want to support future releases, check out
